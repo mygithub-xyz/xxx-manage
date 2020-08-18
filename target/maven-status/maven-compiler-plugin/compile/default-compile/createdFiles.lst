@@ -1,0 +1,13 @@
+com\nanjing\controller\LoginController.class
+com\nanjing\service\PeopleService.class
+com\nanjing\service\impl\PeopleServiceImpl.class
+com\nanjing\pojo\People.class
+com\nanjing\XxxManageApplication.class
+com\nanjing\controller\PeopleController.class
+com\nanjing\config\MyPasswordEncoder.class
+com\nanjing\controller\IndexController.class
+com\nanjing\dao\PeopleDao.class
+com\nanjing\entity\PageResult.class
+com\nanjing\entity\Result.class
+com\nanjing\config\WebSecurityConfig.class
+com\nanjing\swagger\SwaggerConfig.class

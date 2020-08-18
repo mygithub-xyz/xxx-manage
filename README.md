@@ -34,8 +34,8 @@ log4j日志管理，poi批量导出,devtools热部署组件。<br>
 ![crud管理](https://github.com/mygithub-xyz/springboot-project/blob/master/92JYX7R%24Z2HSW_%5DO97B%5BL0A.png)
 # 接口文档
 ![swagger接口文档](https://github.com/mygithub-xyz/springboot-project/blob/master/jikouwendnag.png)
-# 项目完整代码，---00001分支提取
-#### url链接:https://github.com/mygithub-xyz/springboot-project.git
+# 项目完整代码，---master分支提取
+#### url链接:https://github.com/mygithub-xyz/xxx-manage.git
 # 测试地址 
 | 测试地址       | **账号**  
 | :--------- | ------------------------------------------------------------ |
